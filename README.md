@@ -22,7 +22,7 @@ Scanning The Internet for FUN
 
 ## In the News
 - https://hackread.com/mass-ransomware-campaign-s3-buckets-stolen-aws-keys/
-- https://www.securityweek.com/honeypot-surprise-researchers-catch-attackers-exposing-15000-stolen-credentials-in-s3-bucket/?utm_source=chatgpt.com
+- https://www.securityweek.com/honeypot-surprise-researchers-catch-attackers-exposing-15000-stolen-credentials-in-s3-bucket/
 
 
 # ✍️ Contributing Guidelines
