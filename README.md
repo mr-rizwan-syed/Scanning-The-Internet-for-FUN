@@ -22,3 +22,18 @@ Scanning The Internet for FUN
 
 ## In the News
 - https://hackread.com/mass-ransomware-campaign-s3-buckets-stolen-aws-keys/
+
+
+# ✍️ Contributing Guidelines
+Thanks for considering contributing to Scanning The Internet for FUN! 🎉
+This repository aims to gather high-quality, relevant resources related to internet-wide scanning, asset discovery, and fun cloud exposures.
+
+We welcome contributions in the form of:
+
+📚 New Resources (tools, blogs, talks, research papers, write-ups)
+
+🛠️ Tool Links (web tools, GitHub repos, OSINT dashboards)
+
+📰 News Articles about mass scans or public cloud exposures
+
+📈 Trending Projects or use cases involving public data or misconfigurations
