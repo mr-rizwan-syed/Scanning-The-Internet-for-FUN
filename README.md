@@ -22,6 +22,7 @@ Scanning The Internet for FUN
 
 ## In the News
 - https://hackread.com/mass-ransomware-campaign-s3-buckets-stolen-aws-keys/
+- https://www.securityweek.com/honeypot-surprise-researchers-catch-attackers-exposing-15000-stolen-credentials-in-s3-bucket/?utm_source=chatgpt.com
 
 
 # ✍️ Contributing Guidelines
@@ -31,9 +32,6 @@ This repository aims to gather high-quality, relevant resources related to inter
 We welcome contributions in the form of:
 
 📚 New Resources (tools, blogs, talks, research papers, write-ups)
-
 🛠️ Tool Links (web tools, GitHub repos, OSINT dashboards)
-
 📰 News Articles about mass scans or public cloud exposures
-
 📈 Trending Projects or use cases involving public data or misconfigurations
